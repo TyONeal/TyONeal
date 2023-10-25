@@ -15,7 +15,6 @@ I'm a dedicated back-end developer with a focus on Spring Boot using Java. All p
 </p>
 
 ---
-<br>
 ## Languages and Frameworks
 
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -25,8 +24,10 @@ I'm a dedicated back-end developer with a focus on Spring Boot using Java. All p
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 ---
-<br>
-# Stats
+<br/>
+<br/>
+
+## Stats
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyoneal&show_icons=true&theme=synthwave)](https://github.com/tyoneal/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=TyONeal&theme=synthwave)](https://git.io/streak-stats)
