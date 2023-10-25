@@ -30,7 +30,7 @@ I'm a dedicated back-end developer with a focus on Spring Boot using Java. All p
 ## Stats
 
   [![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyoneal&show_icons=true&theme=synthwave)](https://github.com/tyoneal/github-readme-stats)
-  [![Ty's GitHub Streak](https://streak-stats.demolab.com?user=TyONeal&theme=synthwave&card_width=400)](https://git.io/streak-stats)
+  [![Ty's GitHub Streak](https://streak-stats.demolab.com?user=TyONeal&theme=synthwave&card_width=300)](https://git.io/streak-stats)
 
 <!--
 **TyONeal/TyONeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
