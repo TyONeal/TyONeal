@@ -10,12 +10,9 @@ I'm a dedicated full-stack developer with a heavy focus on back-end functionalit
 
 <p align="left">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TyONeal&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
-  <a href="https://www.linkedin.com/in/ty-oneal/">
-    <img alt="LinkedIn" title="My LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
-  <a>
-    <img alt="Contact Me!" title="Contact me!" src="https://custom-icon-badges.demolab.com/badge/-ty.mcdaniel.oneal@gmail.com-2D2B55?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>
-  </a>    
-
+  <a><img alt="Contact Me!" title="Contact me!" src="https://custom-icon-badges.demolab.com/badge/-ty.mcdaniel.oneal@gmail.com-2D2B55?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>    
+  <a href="https://www.linkedin.com/in/ty-oneal/"><img alt="LinkedIn" title="My LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
+</p>
 ---
 
 ## Languages and Frameworks
