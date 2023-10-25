@@ -9,13 +9,13 @@
 I'm a dedicated back-end developer with a focus on Spring Boot using Java. All projects are built from the ground up, from planning/designing of database infrastructure to meet the application's needs, all the way to the styling of the page. I am always interested in collaboration! Thanks for checking me out!
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TyONeal&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
   <br/>
   <a><img alt="Contact Me!" title="Contact me!" src="https://custom-icon-badges.demolab.com/badge/-ty.mcdaniel.oneal@gmail.com-2D2B55?style=for-the-badge&logo=comment-discussion&logoColor=white"/></a>    
   <a href="https://www.linkedin.com/in/ty-oneal/"><img alt="LinkedIn" title="My LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=workflow&logoColor=white"/></a>
 </p>
----
 
+---
+<br>
 ## Languages and Frameworks
 
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -23,7 +23,14 @@ I'm a dedicated back-end developer with a focus on Spring Boot using Java. All p
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="left" alt="Java" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    
+
+---
+<br>
+# Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyoneal&show_icons=true&theme=synthwave)](https://github.com/tyoneal/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TyONeal&theme=synthwave)](https://git.io/streak-stats)
+
 
 <!--
 **TyONeal/TyONeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
