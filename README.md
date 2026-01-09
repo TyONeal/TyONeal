@@ -4,9 +4,7 @@
 
 # Ty O'Neal
 
-**`Java Developer (Spring/EE)`**
 
-I'm a dedicated back-end developer with a focus on Spring Boot using Java. All projects are built from the ground up, from planning/designing of database infrastructure to meet the application's needs, all the way to the styling of the page. I am always interested in collaboration! Thanks for checking me out!
 
 <p align="left">
   <br/>
