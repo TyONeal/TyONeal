@@ -27,8 +27,8 @@
 
 ## Stats
 
-  [![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyoneal&show_icons=true&theme=synthwave)](https://github.com/tyoneal/github-readme-stats)
-  [![Ty's GitHub Streak](https://streak-stats.demolab.com?user=TyONeal&theme=synthwave&card_width=330)](https://git.io/streak-stats)
+[![Ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyONeal&show_icons=true&theme=synthwave)](https://github.com/TyONeal)
+[![Ty's GitHub Streak](https://streak-stats.demolab.com?user=TyONeal&theme=synthwave&card_width=330)](https://github.com/TyONeal)
 
 <!--
 **TyONeal/TyONeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
